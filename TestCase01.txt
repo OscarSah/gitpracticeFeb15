@@ -1,0 +1,7 @@
+Navigating through folders: cd folderName
+Creating a new folder: mkdir folderName
+Create a text file: touch fileName.txt
+
+Git Practice
+- git init : enables version control
+- git status: shows details about status of the git version system
