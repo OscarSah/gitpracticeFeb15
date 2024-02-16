@@ -29,6 +29,12 @@ After first sharing of the project steps are always same as:
 2. git commit -m "message"
 3. git push
 
+Branching in Git
+git branch "branchName"
+git checkout branchName
+
+
+
 
 
 
