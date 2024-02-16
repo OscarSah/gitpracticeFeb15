@@ -23,3 +23,13 @@ Git Practice:
 
 If you get error pushing your code, because your local branch is named as Master and remote is named as Main, do following:
   git branch -M main
+
+After first sharing of the project steps are always same as:
+1. git add .
+2. git commit -m "message"
+3. git push
+
+
+
+
+
