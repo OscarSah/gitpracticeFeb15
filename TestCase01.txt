@@ -20,3 +20,6 @@ Git Practice:
 - git add .   : adds every changes to stage
 - git commit -m "commit message". :  committing your charges (goes to local repository)
 - How to share our project on GitHub
+
+If you get error pushing your code, because your local branch is named as Master and remote is named as Main, do following:
+  git branch -M main
