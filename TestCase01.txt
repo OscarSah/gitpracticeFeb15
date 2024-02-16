@@ -5,3 +5,12 @@ Create a text file: touch fileName.txt
 Git Practice
 - git init : enables version control
 - git status: shows details about status of the git version system
+
+
+Driver purpose in Selenium
+
+Java Selenium Code. ---> Chrome Diver ---> Automate Chrome Browser 
+
+Either by BoniGarcia Dependency : WebdriverManager.chromedriver.setup()
+
+Selenium has its own library to handle driver setup : but this sometimes gives problems
