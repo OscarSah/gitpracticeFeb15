@@ -14,3 +14,9 @@ Java Selenium Code. ---> Chrome Diver ---> Automate Chrome Browser
 Either by BoniGarcia Dependency : WebdriverManager.chromedriver.setup()
 
 Selenium has its own library to handle driver setup : but this sometimes gives problems
+
+Git Practice:
+- git add fileName : adding changes to stage for a file
+- git add .   : adds every changes to stage
+- git commit -m "commit message". :  committing your charges (goes to local repository)
+- How to share our project on GitHub
